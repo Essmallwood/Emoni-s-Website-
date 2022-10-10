@@ -1,0 +1,14 @@
+
+
+    body{
+        background-color: aqua;
+    font-family:'Dosis', sans-serif;;
+        padding: 70px;
+        text-align: center;
+        width: 100%;
+       background-image: url('https://media.giphy.com/media/9LXOLkp1gIgqpUTMcs/giphy.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
